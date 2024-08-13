@@ -1,1 +1,3 @@
-# Telecom-Domain
+The telecom industry plays a crucial role in connecting the world. With the advent of 5G, the dynamics of the industry have shifted, offering new opportunities and challenges for telecom providers. As a data analyst, I embarked on an independent project to analyze the market share of Atliqo, one of India’s leading telecom companies, following the launch of their 5G services.
+
+This project was particularly special to me because it marked a transition from guided learning to independent analysis — a step that allowed me to fully apply my skills and creativity in a real-world setting. Having previously completed three guided projects under the excellent tutelage of Hemanand Vadivel and Dhaval Patel, this was my first unguided project, where I took charge of every aspect of the analysis and reporting.
